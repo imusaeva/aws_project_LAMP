@@ -30,3 +30,8 @@
 - [ ] Test your autoscaling group
 
 - [ ] Stream apache error and access logs to cloudwatch from both EC2 instances
+
+### Architecture diagram of the project
+<img width="798" alt="Screen Shot 2023-04-06 at 5 24 20 PM" src="https://user-images.githubusercontent.com/85028974/230504693-7e04c88c-bcff-4830-b078-e46e41eab7c5.png">
+
+
